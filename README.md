@@ -8,4 +8,4 @@
 
 ### Este projeto é a criação de uma landingpage ficticia para uma academia.
 
-### Nele foram abordados diversos conceitos de HTML e CSS, questões sobre hover, posicionamento, centralização de itens, inclusão de imagens no background entre outros.
+ Nele foram abordados diversos conceitos de HTML e CSS, questões sobre hover, posicionamento, centralização de itens, inclusão de imagens no background entre outros.
