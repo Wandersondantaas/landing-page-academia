@@ -1,4 +1,6 @@
-##(https://wandersondantaas.github.io/landing-page-academia/) LandingPage Academia
+## LandingPage Academia
+
+[Clique aqui para abrir o projeto]((https://wandersondantaas.github.io/landing-page-academia/)
 
 ### Desenvolvido com HTML e CSS.
 <div style="display: inline_block" >
